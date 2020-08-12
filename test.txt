@@ -1,2 +1,1 @@
-git is great tool
-git is open source
+adding new command
